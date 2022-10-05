@@ -1,9 +1,5 @@
 # Eu sou o Julio e esse é o meu perfil do Github
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliolimacostavalladares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliolimacostavalladares&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 <br>
 <br>
  <div align="center" style="display: inline_block"><br>
