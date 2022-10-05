@@ -1,4 +1,4 @@
-<conter>Eu sou o Julio e esse é o meu perfil do Github</center>
+<center>Eu sou o Julio e esse é o meu perfil do Github</center>
 
 <br>
 <br>
