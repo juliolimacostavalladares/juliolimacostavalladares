@@ -58,5 +58,4 @@
   <pre>
   <img align="center"  height="100" width="100" src="https://avatars.githubusercontent.com/u/61442899?s=400&u=39b9db3a9dae31a937dd2e0d69ff6adf4d6f8cfc&v=4">
 </div>
- 
-  ![Snake animation](https://github.com/juliolimacostavalladares/juliolimacostavalladares/blob/output/github-contribution-grid-snake.svg)
+
